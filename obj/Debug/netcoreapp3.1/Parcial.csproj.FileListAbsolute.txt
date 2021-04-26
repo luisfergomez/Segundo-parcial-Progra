@@ -1,0 +1,13 @@
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.exe
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.deps.json
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.json
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.runtimeconfig.dev.json
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\emanu\Desktop\Parcial\bin\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.csprojAssemblyReference.cache
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfoInputs.cache
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.AssemblyInfo.cs
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.csproj.CoreCompileInputs.cache
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.dll
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.pdb
+C:\Users\emanu\Desktop\Parcial\obj\Debug\netcoreapp3.1\Parcial.genruntimeconfig.cache
